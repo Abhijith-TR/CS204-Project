@@ -143,3 +143,5 @@ Changes have been made in the following files:
    **Core 2:**
    * **Cumulative IPC:** 0.520753 instructions: 100000002 cycles: 192029586  
    * LLC TOTAL     ACCESS:    1085561  HIT:     837840  MISS:     247721
+
+More results (for 2 core, 4 core and 8 core) can be seen at: https://docs.google.com/spreadsheets/d/1pXiMeEUcKjsCnb-nVGWeX-XJbTiYhffnHd_GaR1g5j4/edit#gid=2084777539
